@@ -1,0 +1,6 @@
+@Fingerprint_Matching_Engine_HostAddress = http://localhost:5171
+
+GET {{Fingerprint_Matching_Engine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

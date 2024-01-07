@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Fingerprint Matching Engine.props" />
+</Project>
